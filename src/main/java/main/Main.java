@@ -16,7 +16,7 @@ import java.io.File;
 public class Main {
 
     // Caminho para o arquivo do SQLite
-    private static final String DB_PATH = "C:/Projetos/TPS/locadora.db";
+    private static final String DB_PATH = "locadora.db";
 
 	public static void main(String[] args) {
 
